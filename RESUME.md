@@ -6,19 +6,19 @@ _+55 21 998631219 / raposo.felippe@gmail.com_
 
 ---------
 
-I am a chalenge led developer. Recognized for taking on the most challenging task with a "cool and helpful presence" and for going out of the way to learn new technical areas. Two years of professional experience in development of software for cloud services using Python and Ruby on LINUX platforms. Known for a combination of focused analytical skills and interpersonal strengths. Background in design, development and testing of software with expertise in database  and cloud products. I'm not yet at Guido Von Rossum's level but I'm working to go far beyond that. 
+I am a challenge led developer. Recognized for taking on the most challenging task with a "cool and helpful presence" and for going out of the way to learn new technical areas. Two years of professional experience in development of software for cloud services using Python and Ruby on LINUX platforms. Known for a combination of focused analytical skills and interpersonal strengths. Background in design, development and testing of software with expertise in database and cloud products. I'm not yet at Guido Von Rossum's level, but I'm working to go far beyond that.
 
 Summary of Qualifications
 -------------------------
 * Able to recognize code smells, deal with legacy code, develop software using 
-  evolutionary design, deal with awkward colabarations in code and manage a 
-  continous deployment environment. 
+  evolutionary design, deal with awkward collaborations in code and manage a 
+  continuous deployment environment.
 * MySQL, MongoDB and Redis development and administration including security,
   monitoring, performance, and high availability.
 * Very diverse skill set including (but not limited to) software development,
   Linux server administration, and training/tutoring.
 * Able to work independently, recognizing patterns/problems and developing and
-  implementing solutions while also able to collaborate with a team.
+  Implementing solutions while also able to collaborate with a team.
 * Experience as a developer has resulted in good problem solving skills, 
   critical thinking skills, and patience.
 
@@ -50,8 +50,8 @@ Professional Experience
 _Middle Software Engineer, Feb 2014 - Present_
 
 * Middle member of the team that built DBaaS, an open source
-  web app and API designed to manage databases on the cloud environment, 
-  similar to Amazon's RDS but with NoSQL databases such as MongoDB and Redis.
+  Web app and API designed to manage databases on the cloud environment, 
+  similar to Amazon's RDS, but with NoSQL databases such as MongoDB and Redis.
 * Our team is currently involved in pioneering the way that globo.com deal 
   with database management. DBaaS releases globo.com database administrators
   and other infrastructure teams to spend time on real problems which led to
