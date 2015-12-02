@@ -2,7 +2,7 @@ Felippe Raposo
 ===============
 
 _Rua Adílio Neves Dutra, Apt 401. Fonseca / Niteroi, RJ. Brazil  
-_+55 21 998631219 / raposo.felippe@gmail.com_
++55 21 998631219 / raposo.felippe@gmail.com_
 
 ---------
 
