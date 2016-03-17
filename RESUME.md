@@ -6,7 +6,7 @@ _Rua Adílio Neves Dutra, Apt 401. Fonseca / Niteroi, RJ. Brazil
 
 ---------
 
-I am a challenge led developer. Recognized for taking on the most challenging task with a "cool and helpful presence" and for going out of the way to learn new technical areas. Two years of professional experience in development of software for cloud services using Python and Ruby on LINUX platforms. Known for a combination of focused analytical skills and interpersonal strengths. Background in design, development and testing of software with expertise in database and cloud products. I'm not yet at Guido Von Rossum's level, but I'm working to go far beyond that.
+I am a challenge led developer. Recognized for taking on the most challenging task with a "cool and helpful presence" and for going out of the way to learn new technical areas. Two years of professional experience in development of software for distributed cloud services using Python on LINUX platforms. Moreover, I've already solved resource coordination and messaging problems with zookeeper and rabbitmq. Known for a combination of focused analytical skills and interpersonal strengths. Background in design, development and testing of software with expertise in database and distributed cloud products. I'm not yet at Guido Von Rossum's level, but I'm working to go far beyond that.
 
 Summary of Qualifications
 -------------------------
@@ -31,7 +31,7 @@ Python, Ruby and Javascript
 
 ### Frameworks / Libraries:
 
-Django, Rails, JQuery
+Flask, Django, Rails, JQuery
 
 
 Certifications and Education
@@ -39,8 +39,7 @@ Certifications and Education
 
 * Testing & Refactoring Box Set by Industrial Logic
 * Continous Deployment by Industrial Logic
-* Bachelor of Computer Science (incomplete), Universidade Veiga de Almeida,
-  Rio de Janeiro, Brazil (2012 - 2016)
+* Software Development degree, UNESA, Rio de Janeiro, Brazil (2016 - 2019)
 
 Professional Experience
 -----------------------
