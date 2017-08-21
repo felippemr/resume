@@ -50,6 +50,8 @@ Professional Experience
 
 _Software Engineer, Sep 2017 - Present_
 
+* Currently I'm the lead in a team with three engineers, so far I went through almost all the cycle of customer aquisition and engagement(sales, onboarding and  accounting management) creating tools to maximize the impact with less effort, hunting the right problems to solve and proving hypothesys with MVP.
+
 ### Globo.com (Rio de Janeiro, Brazil)
 
 _Middle Software Engineer, Feb 2014 - Sep 2017_
@@ -57,11 +59,9 @@ _Middle Software Engineer, Feb 2014 - Sep 2017_
 * Middle member of the team that built DBaaS, an open source
   Web app and API designed to manage databases on the cloud environment, 
   similar to Amazon's RDS, but with NoSQL databases such as MongoDB and Redis.
-* Our team is currently involved in pioneering the way that globo.com deal 
-  with database management. DBaaS releases globo.com database administrators
-  and other infrastructure teams to spend time on real problems which led to
-  reduction of errors, better usage of resources and drastic reduction in the time to 
-  create a new database
+* DBaaS releases globo.com database administrators and other infrastructure teams 
+  to spend time on real problems which led to reduction of errors, better usage of 
+  resources and drastic reduction in the time to create a new database.
 
 ### Mob4Biz (Rio de Janeiro, Brazil)
 
