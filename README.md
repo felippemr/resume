@@ -17,19 +17,14 @@ Summary of Qualifications
 * Experience as a developer has resulted in good problem solving skills, 
   critical thinking skills, and patience.
 
-Technical Profile
+Languages and Frameworks
 -----------------
-
-### Languages and Frameworks:
-
 * Python - Django and Flask
 * Javascript - React+Redux, Knockout and jQuery
 * Rust
 
-
 Professional Experience
 -----------------------
-
 ### eShares, Inc (Rio de Janeiro, Brazil)
 
 _Software Engineer, Sep 2017 - Present_
