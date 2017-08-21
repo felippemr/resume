@@ -48,11 +48,11 @@ Professional Experience
 
 ### eShares, Inc (Rio de Janeiro, Brazil)
 
-_Software Engineer, Set 2017 - Present_
+_Software Engineer, Sep 2017 - Present_
 
 ### Globo.com (Rio de Janeiro, Brazil)
 
-_Middle Software Engineer, Feb 2014 - Set 2017_
+_Middle Software Engineer, Feb 2014 - Sep 2017_
 
 * Middle member of the team that built DBaaS, an open source
   Web app and API designed to manage databases on the cloud environment, 
