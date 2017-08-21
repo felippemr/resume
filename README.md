@@ -59,8 +59,10 @@ We developed a mobile application to help managers with approval of purchase ord
 Courses
 ----------------------------
 
-* Cloud Computing Concepts: Part 2 by University of Illinois at Urbana-Champaign on Coursera. Certificate earned on July 15, 2017
-* Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera. Certificate earned on April 15, 2017
-* Cloud Computing Concepts, Part 1 by University of Illinois at Urbana-Champaign on Coursera. Certificate earned on July 24, 2016
+* Cloud Computing Concepts: Part 2 by University of Illinois at Urbana-Champaign on Coursera. (Syllabus)[https://www.coursera.org/learn/cloud-computing]
+* Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera. (Syllabus)
+[https://www.coursera.org/learn/ml-foundations]
+* Cloud Computing Concepts, Part 1 by University of Illinois at Urbana-Champaign on Coursera. (Syllabus)
+[https://www.coursera.org/learn/cloud-computing-2]
 * Testing & Refactoring Box Set by Industrial Logic
 * Continous Deployment by Industrial Logic
