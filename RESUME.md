@@ -29,15 +29,6 @@ Python, Javascript and Rust
 Flask, Django and React+Redux
 
 
-Courses
-----------------------------
-
-* Cloud Computing Concepts: Part 2 by University of Illinois at Urbana-Champaign on Coursera. Certificate earned on July 15, 2017
-* Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera. Certificate earned on April 15, 2017
-* Cloud Computing Concepts, Part 1 by University of Illinois at Urbana-Champaign on Coursera. Certificate earned on July 24, 2016
-* Testing & Refactoring Box Set by Industrial Logic
-* Continous Deployment by Industrial Logic
-
 Professional Experience
 -----------------------
 
@@ -64,3 +55,12 @@ _Black Belt Dec 2012 - Feb 2014_
 
 * Helped some friends with a B2B startup focused on out-of-the-box integration with ERP systems. 
 We developed a mobile application to help managers with approval of purchase orders and others boring stuffs.
+
+Courses
+----------------------------
+
+* Cloud Computing Concepts: Part 2 by University of Illinois at Urbana-Champaign on Coursera. Certificate earned on July 15, 2017
+* Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera. Certificate earned on April 15, 2017
+* Cloud Computing Concepts, Part 1 by University of Illinois at Urbana-Champaign on Coursera. Certificate earned on July 24, 2016
+* Testing & Refactoring Box Set by Industrial Logic
+* Continous Deployment by Industrial Logic
