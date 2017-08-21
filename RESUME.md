@@ -34,7 +34,7 @@ Python, Javascript and Rust
 Flask, Django and React+Redux
 
 
-Certifications and Education
+Courses
 ----------------------------
 
 * Cloud Computing Concepts: Part 2 by University of Illinois at Urbana-Champaign on Coursera. Certificate earned on July 15, 2017
