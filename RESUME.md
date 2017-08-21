@@ -1,8 +1,8 @@
 Felippe Raposo
 ===============
 
-RJ. Brazil  
-raposo.felippe@gmail.com
+RJ - Brazil  
+[Linkedin](https://www.linkedin.com/in/felippe-da-motta-raposo-88aa0562/)
 
 ---------
 
@@ -62,13 +62,10 @@ _Middle Software Engineer, Feb 2014 - Set 2017_
   and other infrastructure teams to spend time on real problems which led to
   reduction of errors, better usage of resources and drastic reduction in the time to 
   create a new database
-* A small sample of my open source work is available at
-  <http://github.com/felippemr>.
 
 ### Mob4Biz (Rio de Janeiro, Brazil)
 
 _Black Belt Dec 2012 - Feb 2014_
 
-* Lead developer and DBA of my own startup. With some friends I created a B2B startup 
-  focused on out-of-the-box integration with ERP systems. We developed a mobile application
-  to help managers with approval of purchase orders and others boring stuffs.
+* Helped some friends with a B2B startup focused on out-of-the-box integration with ERP systems. 
+We developed a mobile application to help managers with approval of purchase orders and others boring stuffs.
