@@ -20,13 +20,11 @@ Summary of Qualifications
 Technical Profile
 -----------------
 
-### Programming Languages:
+### Languages and Frameworks:
 
-Python, Javascript and Rust
-
-### Frameworks / Libraries:
-
-Flask, Django and React+Redux
+* Python - Django and Flask
+* Javascript - React+Redux, Knockout and jQuery
+* Rust
 
 
 Professional Experience
