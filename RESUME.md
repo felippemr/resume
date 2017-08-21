@@ -1,8 +1,8 @@
 Felippe Raposo
 ===============
 
-_Rua Adílio Neves Dutra, Apt 401. Fonseca / Niteroi, RJ. Brazil  
-+55 21 998631219 / raposo.felippe@gmail.com_
+RJ. Brazil  
+raposo.felippe@gmail.com
 
 ---------
 
@@ -27,26 +27,32 @@ Technical Profile
 
 ### Programming Languages:
 
-Python, Ruby and Javascript
+Python, Javascript and Rust
 
 ### Frameworks / Libraries:
 
-Flask, Django, Rails, JQuery
+Flask, Django and React+Redux
 
 
 Certifications and Education
 ----------------------------
 
+* Cloud Computing Concepts: Part 2 by University of Illinois at Urbana-Champaign on Coursera. Certificate earned on July 15, 2017
+* Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera. Certificate earned on April 15, 2017
+* Cloud Computing Concepts, Part 1 by University of Illinois at Urbana-Champaign on Coursera. Certificate earned on July 24, 2016
 * Testing & Refactoring Box Set by Industrial Logic
 * Continous Deployment by Industrial Logic
-* Software Development degree, UNESA, Rio de Janeiro, Brazil (2016 - 2019)
 
 Professional Experience
 -----------------------
 
-###Globo.com (Rio de Janeiro, Brazil)
+### eShares, Inc (Rio de Janeiro, Brazil)
 
-_Middle Software Engineer, Feb 2014 - Present_
+_Software Engineer, Set 2017 - Present_
+
+### Globo.com (Rio de Janeiro, Brazil)
+
+_Middle Software Engineer, Feb 2014 - Set 2017_
 
 * Middle member of the team that built DBaaS, an open source
   Web app and API designed to manage databases on the cloud environment, 
