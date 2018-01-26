@@ -50,14 +50,14 @@ Professional Experience
 -----------------------
 ### eShares, Inc (Rio de Janeiro, Brazil)
 
-_Software Engineer, Sep 2017 - Present_
+_Software Engineer, Sep 2016 - Present_
 <p align="justify">
   Currently I'm the lead in a team with three engineers, so far I went through almost all the cycle of customer aquisition and engagement(sales, onboarding and  accounting management) creating tools to maximize the impact with less effort, hunting the right problems to solve and proving hypothesys with MVP.
 </p>
 
 ### Globo.com (Rio de Janeiro, Brazil)
 
-_Middle Software Engineer, Feb 2014 - Sep 2017_
+_Middle Software Engineer, Feb 2014 - Sep 2016_
 <p align="justify">
   Middle member of the team that built DBaaS, an open source
   Web app and API designed to manage databases on the cloud environment, 
@@ -77,6 +77,7 @@ _Black Belt Dec 2012 - Feb 2014_
 Courses
 ----------------------------
 
+* Financial Markets by Yale University on Coursera. [Syllabus](https://www.coursera.org/learn/financial-markets-global/)
 * Cloud Computing Concepts: Part 2 by University of Illinois at Urbana-Champaign on Coursera. [Syllabus](https://www.coursera.org/learn/cloud-computing)
 * Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera. [Syllabus](https://www.coursera.org/learn/ml-foundations)
 * Cloud Computing Concepts, Part 1 by University of Illinois at Urbana-Champaign on Coursera. [Syllabus](https://www.coursera.org/learn/cloud-computing-2)
