@@ -48,11 +48,13 @@ Languages and Frameworks
 
 Professional Experience
 -----------------------
-### eShares, Inc (Rio de Janeiro, Brazil)
+### Carta, Inc (Rio de Janeiro, Brazil)
 
 _Software Engineer, Sep 2016 - Present_
 <p align="justify">
-  Currently I'm the lead in a team with three engineers, so far I went through almost all the cycle of customer aquisition and engagement(sales, onboarding and  accounting management) creating tools to maximize the impact with less effort, hunting the right problems to solve and proving hypothesys with MVP.
+  So far I went through almost all the cycle of customer acquisition and engagement(sales, onboarding and accounting management) creating tools to maximize the impact with less effort, hunting the right problems to solve and proving hypothesis with MVP. I have created and dealt with lots of reports including cap table, UK SH01, ASC 718. Also, helped solved problems in the onboarding system by rewriting our onboarding tool completely and was able to cut the resource consumption by 80% and improve the speed by 250% by leveraging distributed computation.
+  
+  Also, I helped design a tool to draft and send sales contracts and with that a payment tool capable of handling credit cards and ACH(American banks only) with which the company was able to charge more than $1M in in the first month and was a leader in a team responsible for creating a new product focused on startup founders which helped the company attract customers early. Currently, I'm working on the expense accounting team recreating a tool to generate expense reports such as the expense audit report and disclosures reports for our customers.
 </p>
 
 ### Globo.com (Rio de Janeiro, Brazil)
