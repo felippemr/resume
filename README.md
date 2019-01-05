@@ -1,4 +1,4 @@
-Felippe Raposo / RJ - Brazil  / [Linkedin](https://www.linkedin.com/in/felippe-da-motta-raposo-88aa0562/) / [Github](https://github.com/felippemr)
+Felippe Raposo / Palo Alto,CA - USA  / [Linkedin](https://www.linkedin.com/in/felippe-da-motta-raposo-88aa0562/) / [Github](https://github.com/felippemr)
 ==========================================================================================================
 <p align="justify">
   I am a challenge led developer recognized for taking on the most challenging task with a "cool and helpful presence" and for going out of the way to learn new technical areas. With five years of professional experience in development of software for distributed cloud services using Python on LINUX platforms I'm known for a combination of focused analytical skills and interpersonal strengths including background in design, development and testing of software with expertise in database and distributed cloud products.
