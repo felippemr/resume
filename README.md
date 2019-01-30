@@ -48,7 +48,7 @@ Languages and Frameworks
 
 Professional Experience
 -----------------------
-### Carta, Inc (Rio de Janeiro, Brazil)
+### Carta, Inc (Palo Alto, CA, USA)
 
 _Software Engineer, Sep 2016 - Present_
 <p align="justify">
