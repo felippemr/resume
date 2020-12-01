@@ -9,9 +9,9 @@ Summary of Qualifications
 <ul>
   <li>
     <p align="justify">
-      Able to recognize code smells, deal with legacy code, develop software using 
-      evolutionary design, deal with awkward collaborations in code and manage a 
-      continuous deployment environment.
+      Lead a team to deliver software using evolutionary design, 
+      prioritizing the right projects and tasks. Increase the 
+      business capabilities while reducing tech debt.
     </p>
   </li>
   <li>
@@ -43,7 +43,7 @@ Summary of Qualifications
 Languages and Frameworks
 -----------------
 * Python - Django and Flask
-* Javascript - React+Redux, Knockout and jQuery
+* Javascript - React+Redux, Knockout and jQuery, Vue.js
 * Rust
 
 Professional Experience
@@ -52,9 +52,11 @@ Professional Experience
 
 _Software Engineer, Sep 2016 - Present_
 <p align="justify">
-  So far I went through almost all the cycle of customer acquisition and engagement(sales, onboarding and accounting management) creating tools to maximize the impact with less effort, hunting the right problems to solve and proving hypothesis with MVP. I have created and dealt with lots of reports including cap table, UK SH01, ASC 718. Moreover, I solved problems in the onboarding system by rewriting our onboarding tool completely and was able to cut the resource consumption by 80% and improve the speed by 250% by leveraging distributed computation improving customer experience and support happiness.
+  Went through almost all the cycle of customer acquisition and engagement(sales, onboarding and accounting management) creating tools to maximize the impact with less effort, hunting the right problems to solve and proving hypothesis with MVP. I have created and dealt with lots of reports including cap table, UK SH01, ASC 718. Moreover, I solved problems in the onboarding system by rewriting our onboarding tool completely and was able to cut the resource consumption by 80% and improve the speed by 250% by leveraging distributed computation improving customer experience and support happiness.
   
-  On top of that, I helped design a tool to draft and send sales contracts and with that a payment tool capable of handling credit cards and ACH(American banks only) with which the company was able to charge more than $1M in in the first month and was a leader in a team responsible for creating a new product focused on startup founders which helped the company attract customers early. Currently, I'm working on the expense accounting team recreating a tool to generate expense reports such as the expense audit report and disclosures reports for our customers.
+  I helped design a tool to draft and send sales contracts and with that a payment tool capable of handling credit cards and ACH(American banks only) with which the company was able to charge more than $1M in in the first month. Led the expense accounting team for 4 four months on recreating a tool to generate expense reports such as the expense audit report and disclosures reports for our customers.
+  
+  Currently working on Carta's payments platform where I have been able to drastically improve the service performance, remove bugs that were impacting users by employing a new archtecture for cross-systems integrations and, I am designing a novel solution for money movement that will transact tens of billions of dollars within the next two years. 
 </p>
 
 ### Globo.com (Rio de Janeiro, Brazil)
@@ -78,7 +80,7 @@ _Black Belt Dec 2012 - Feb 2014_
 
 Courses
 ----------------------------
-
+* B.S in Business at Penn State Campus (started on fall 2020)
 * Financial Markets by Yale University on Coursera. [Syllabus](https://www.coursera.org/learn/financial-markets-global/)
 * Cloud Computing Concepts: Part 2 by University of Illinois at Urbana-Champaign on Coursera. [Syllabus](https://www.coursera.org/learn/cloud-computing)
 * Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera. [Syllabus](https://www.coursera.org/learn/ml-foundations)
