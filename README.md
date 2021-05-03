@@ -116,6 +116,7 @@ _Intern Jul 2010 - Oct 2010_
 <p align="justify">
   Preparation of new linux servers before shipping them to customers.
 </p>
+
 Courses
 ----------------------------
 * B.S in Business at Penn State Campus (started on fall 2020)
