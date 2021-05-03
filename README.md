@@ -62,7 +62,7 @@ _Senior Software Engineer, Jan 2019 - Present_
   Currently working on Carta's payments platform where I have been able to drastically improve the service performance, fixed issues that were impacting users by employing a new archtecture for cross-systems integrations. I am currently the technical lead in charge of designing a novel solution for money movement that will safely transact tens of billions of dollars within 2021 alone. I am also be part of the payments core team, and will help Carta adopt more modern architectures on legacy money movement infrastructures.
 </p>
 
-
+### Carta, Inc (Rio de Janeiro, Brazil)
 _Software Engineer, Sep 2016 - Dez 2018_
 <p align="justify">
   Went through almost all the cycle of customer acquisition and engagement(sales, onboarding and accounting management) creating tools to maximize the impact with less effort, hunting the right problems to solve and proving hypothesis with MVP. I have created and dealt with lots of reports including cap table, UK SH01, ASC 718. Moreover, I solved problems in the onboarding system by rewriting our onboarding tool completely and was able to cut the resource consumption by 80% and improve the speed by 250% by leveraging distributed computation improving customer experience and support happiness.
