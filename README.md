@@ -1,12 +1,17 @@
 Felippe Raposo / Palo Alto, CA - USA  / [Linkedin](https://www.linkedin.com/in/felippe-da-motta-raposo-88aa0562/) / [Github](https://github.com/felippemr)
 ==========================================================================================================
 <p align="justify">
-  I am a challenge led developer recognized for taking on the most challenging task with a "cool and helpful presence" and for going out of the way to learn new technical areas. With five years of professional experience in development of software for distributed cloud services using Python on LINUX platforms I'm known for a combination of focused analytical skills and interpersonal strengths including background in design, development and testing of software with expertise in database and distributed cloud products.
+  I am a challenge led developer recognized for taking on the most challenging task with a "cool and helpful presence" and for going out of the way to learn new technical areas. With five years of professional experience in development of software for distributed cloud services using Python on LINUX platforms I'm known for a combination of focused analytical skills and interpersonal strengths including background in design, development and testing of software with expertise in databases and distributed cloud products.
 </p>
 
 Summary of Qualifications
 -------------------------
 <ul>
+  <li>
+    <p align="justify">
+      I thrive in mission-critical software that involves large amounts of money or that deal with very sensitive data.
+    </p>
+  </li>
   <li>
     <p align="justify">
       Lead a team to deliver software using evolutionary design, 
@@ -44,13 +49,21 @@ Languages and Frameworks
 -----------------
 * Python - Django and Flask
 * Javascript - React+Redux, Knockout and jQuery, Vue.js
-* Rust
+* Rust - Open source contributor
 
 Professional Experience
 -----------------------
 ### Carta, Inc (Palo Alto, CA, USA)
 
-_Software Engineer, Sep 2016 - Present_
+_Senior Software Engineer, Jan 2019 - Present_
+<p align="justify">
+  I was part of the team that created the ASC 718 report at Carta, and helped the company achieve an architecture that enables accurate accounting allowing for historical clerical errors' correction, and that empowers engineers to employ a directed acyclic graph to write code. This solution is currently processing gigabytes of historical, and current, financial data reliabily.
+  
+  Currently working on Carta's payments platform where I have been able to drastically improve the service performance, fixed issues that were impacting users by employing a new archtecture for cross-systems integrations. I am currently the technical lead in charge of designing a novel solution for money movement that will safely transact tens of billions of dollars within 2021 alone. I am also be part of the payments core team, and will help Carta adopt more modern architectures on legacy money movement infrastructures.
+</p>
+
+
+_Software Engineer, Sep 2016 - Dez 2018_
 <p align="justify">
   Went through almost all the cycle of customer acquisition and engagement(sales, onboarding and accounting management) creating tools to maximize the impact with less effort, hunting the right problems to solve and proving hypothesis with MVP. I have created and dealt with lots of reports including cap table, UK SH01, ASC 718. Moreover, I solved problems in the onboarding system by rewriting our onboarding tool completely and was able to cut the resource consumption by 80% and improve the speed by 250% by leveraging distributed computation improving customer experience and support happiness.
   
@@ -78,6 +91,31 @@ _Black Belt Dec 2012 - Feb 2014_
   We developed a mobile application to help managers with approval of purchase orders and others boring stuffs.
 </p>
 
+### Sá Cavalcante (Rio de Janeiro, Brazil)
+
+_IT Assistant Mar 2012 - Mar 2013_
+<p align="justify">
+  Designed and maintained business intelligence reports leveraging the TOVS ERP SQL database. Also, configured the TOTVS ERP to support new accounting and
+  tax standards based on different regions of Brazil. In addition to that, I would frequently fly to different offices in order to train new staff to use 
+  the ERP.
+</p>
+
+_Intern Jul 2011 - Feb 2012_
+<p align="justify">
+  Helped maintain legacy SQL reports.
+</p>
+
+### Feixe Tecnologia (Rio de Janeiro, Brazil)
+
+_IT Assistant Oct 2010 - Jun 2011_
+<p align="justify">
+  Linux admistration routines involving preparation of new servers before sending them to customers, development of $BASH scripts to perform remote actions on servers, and calibration of the image recognition software used to count people moving in/out of a building.
+</p>
+
+_Intern Jul 2010 - Oct 2010_
+<p align="justify">
+  Preparation of new linux servers before shipping them to customers.
+</p>
 Courses
 ----------------------------
 * B.S in Business at Penn State Campus (started on fall 2020)
