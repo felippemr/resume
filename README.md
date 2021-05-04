@@ -74,7 +74,7 @@ _Software Engineer, Sep 2016 - Dez 2018_
 
 ### Globo.com (Rio de Janeiro, Brazil)
 
-_Middle Software Engineer, Feb 2014 - Sep 2016_
+_Middle Software Engineer, Oct 6th 2014 - Sep 7th 2016_
 <p align="justify">
   Middle member of the team that built DBaaS, an open source
   Web app and API designed to manage databases on the cloud environment, 
@@ -85,7 +85,7 @@ _Middle Software Engineer, Feb 2014 - Sep 2016_
 
 ### Mob4Biz (Rio de Janeiro, Brazil)
 
-_Black Belt Dec 2012 - Feb 2014_
+_Black Belt Nov 1st 2012 - Feb 1st 2014_
 <p align="justify">
   Helped some friends with a B2B startup focused on out-of-the-box integration with ERP systems. 
   We developed a mobile application to help managers with approval of purchase orders and others boring stuffs.
@@ -93,29 +93,20 @@ _Black Belt Dec 2012 - Feb 2014_
 
 ### Sá Cavalcante (Rio de Janeiro, Brazil)
 
-_IT Assistant Mar 2012 - Mar 2013_
+_IT Assistant Mar 19th 2012 - Mar 21st 2013_
 <p align="justify">
   Designed and maintained business intelligence reports leveraging the TOVS ERP SQL database. Also, configured the TOTVS ERP to support new accounting and
   tax standards based on different regions of Brazil. In addition to that, I would frequently fly to different offices in order to train new staff to use 
   the ERP.
 </p>
 
-_Intern Jul 2011 - Feb 2012_
-<p align="justify">
-  Helped maintain legacy SQL reports.
-</p>
+### Feixe Tecnologia (MaisFluxo) (Rio de Janeiro, Brazil)
 
-### Feixe Tecnologia (Rio de Janeiro, Brazil)
-
-_IT Assistant Oct 2010 - Jun 2011_
+_IT Assistant Jun 1st 2010 - Jun 10th 2011_
 <p align="justify">
   Linux admistration routines involving preparation of new servers before sending them to customers, development of $BASH scripts to perform remote actions on servers, and calibration of the image recognition software used to count people moving in/out of a building.
 </p>
 
-_Intern Jul 2010 - Oct 2010_
-<p align="justify">
-  Preparation of new linux servers before shipping them to customers.
-</p>
 
 Courses
 ----------------------------
