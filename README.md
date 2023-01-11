@@ -1,7 +1,7 @@
-Felippe Raposo / Palo Alto, CA - USA  / [Linkedin](https://www.linkedin.com/in/felippe-da-motta-raposo-88aa0562/) / [Github](https://github.com/felippemr)
+Felippe Raposo / Cupertino, CA - USA  / [Linkedin](https://www.linkedin.com/in/felippe-da-motta-raposo-88aa0562/) / [Github](https://github.com/felippemr)
 ==========================================================================================================
 <p align="justify">
-  I am a challenge led developer recognized for taking on the most challenging task with a "cool and helpful presence" and for going out of the way to learn new technical areas. With five years of professional experience in development of software for distributed cloud services using Python on LINUX platforms I'm known for a combination of focused analytical skills and interpersonal strengths including background in design, development and testing of software with expertise in databases and distributed cloud products.
+  I am a challenge led developer recognized for taking on the most challenging task with a "cool and helpful presence" and for going out of the way to learn new technical areas. 9 years of professional experience in development of software for distributed cloud services using Python/Java on LINUX platforms I'm known for a combination of focused analytical skills and interpersonal strengths including background in design, development and testing of software with expertise in databases and distributed cloud products.
 </p>
 
 Summary of Qualifications
@@ -9,38 +9,19 @@ Summary of Qualifications
 <ul>
   <li>
     <p align="justify">
-      I thrive in mission-critical software that involves large amounts of money or that deal with very sensitive data.
+      Mentored and helped dozens of professionals get to the next level on their carrers.
     </p>
   </li>
   <li>
     <p align="justify">
-      Lead a team to deliver software using evolutionary design, 
-      prioritizing the right projects and tasks. Increase the 
-      business capabilities while reducing tech debt.
+      Leading teams to deliver software using evolutionary design, 
+      prioritizing the right projects and tasks. Proven track record
+      of planning and negotiating scopes of software projects.
     </p>
   </li>
   <li>
     <p align="justify">
-      MySQL, MongoDB and Redis development and administration including security,
-      monitoring, performance, and high availability.
-    </p>
-  </li>
-  <li>
-    <p align="justify">
-      Very diverse skill set including (but not limited to) software development,
-      Linux server administration, and training/tutoring.
-    </p>
-  </li>
-  <li>
-    <p align="justify">
-      Able to work independently, recognizing patterns/problems and developing and
-      Implementing solutions while also able to collaborate with a team.
-    </p>
-  </li>
-  <li>
-    <p align="justify">
-      Experience as a developer has resulted in good problem solving skills, 
-      critical thinking skills, and patience.
+      Vast software development and systems architecture experience in high growth systems.
     </p>
   </li>
 </ul>
@@ -48,18 +29,22 @@ Summary of Qualifications
 Languages and Frameworks
 -----------------
 * Python - Django and Flask
-* Javascript - React+Redux, Knockout and jQuery, Vue.js
+* Java - Spring boot, vavr, DDD
+* Javascript - React
 * Rust - Open source contributor
 
 Professional Experience
 -----------------------
-### Carta, Inc (Palo Alto, CA, USA)
+### Carta, Inc (Santa Clara, CA, USA)
+_Senior Software Engineer II, Jun 2021 - Present_
+<p align="justify">
+  Leading projects on Carta's money movement(MM) platform. Scalled the software and operations growing from $5bn to over $15bn in 2021 with several critical projects – including: Revamping Carta's MM internal API, enabling International Money Movement for US based companies to offer in-platform exercising to their non Us employees and most recently a new architecture for MM at Carta composed of several services based on a java monorepo.
+</p>
 
-_Senior Software Engineer, Jan 2019 - Present_
+### Carta, Inc (Palo Alto, CA, USA)
+_Senior Software Engineer, Jan 2019 - May 2021
 <p align="justify">
   I was part of the team that created the ASC 718 report at Carta, and helped the company achieve an architecture that enables accurate accounting allowing for historical clerical errors' correction, and that empowers engineers to employ a directed acyclic graph to write code. This solution is currently processing gigabytes of historical, and current, financial data reliabily.
-  
-  Currently working on Carta's payments platform where I have been able to drastically improve the service performance, fixed issues that were impacting users by employing a new archtecture for cross-systems integrations. I am currently the technical lead in charge of designing a novel solution for money movement that will safely transact tens of billions of dollars within 2021 alone. I am also be part of the payments core team, and will help Carta adopt more modern architectures on legacy money movement infrastructures.
 </p>
 
 ### Carta, Inc (Rio de Janeiro, Brazil)
@@ -110,7 +95,7 @@ _IT Assistant Jun 1st 2010 - Jun 10th 2011_
 
 Courses
 ----------------------------
-* B.S in Business at Penn State Campus (started on fall 2020)
+* B.S in Business at Penn State (started on fall 2020)
 * Financial Markets by Yale University on Coursera. [Syllabus](https://www.coursera.org/learn/financial-markets-global/)
 * Cloud Computing Concepts: Part 2 by University of Illinois at Urbana-Champaign on Coursera. [Syllabus](https://www.coursera.org/learn/cloud-computing)
 * Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera. [Syllabus](https://www.coursera.org/learn/ml-foundations)
