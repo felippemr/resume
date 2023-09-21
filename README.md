@@ -2,30 +2,8 @@
 Felippe Raposo / Cupertino, CA - USA  / [Linkedin](https://www.linkedin.com/in/felippe-da-motta-raposo-88aa0562/) / [Github](https://github.com/felippemr)
 ==========================================================================================================
 <p align="justify">
-  I am a challenge led developer recognized for taking on the most challenging task with a "cool and helpful presence" and for going out of the way to learn new technical areas. Over a decade of professional experience in development of software for distributed cloud services using Python/Java on LINUX platforms I'm known for a combination of focused analytical skills and interpersonal strengths including background in design, development and testing of software with expertise in databases and distributed cloud products.
+  I am a challenge led developer recognized for taking on the most challenging task with a "cool and helpful presence" and for going out of the way to learn new technical areas. Over a decade developing software for distributed cloud services using Python/Java with deep expertise in databases and distributed cloud products. I've also mentored dozens of professionals get to the next level on their carrers.
 </p>
-
-Summary of Qualifications
--------------------------
-<ul>
-  <li>
-    <p align="justify">
-      Mentored and helped dozens of professionals get to the next level on their carrers.
-    </p>
-  </li>
-  <li>
-    <p align="justify">
-      Leading teams to deliver software using evolutionary design, 
-      prioritizing the right projects and tasks. Proven track record
-      of planning and negotiating scopes of software projects.
-    </p>
-  </li>
-  <li>
-    <p align="justify">
-      Vast software development and systems architecture experience in high growth systems.
-    </p>
-  </li>
-</ul>
 
 
 Professional Experience
@@ -33,7 +11,7 @@ Professional Experience
 ### Carta, Inc (Santa Clara, CA, USA)
 _Senior Software Engineer II, Jun 2021 - Present_
 <p align="justify">
-  Leading projects on Carta's money movement(MM) platform. Got the software and operations growing from $5B to over $15B in 2021 with several critical projects – including: Revamping Carta's MM internal API, enabling International Money Movement for US based companies to offer in-platform exercising to their non Us employees and most recently a new architecture for MM at Carta composed of several services based on a java monorepo.
+  Leading projects on Carta's money movement(MM) platform. Got the software and operations growing from $5B to over $15B in 2021 with several critical projects – including: Revamping Carta's MM internal API, enabling International Money Movement for US based companies to offer in-platform exercising to their non Us employees and most recently a new architecture for MM at Carta composed of several services based on a java monorepo. Lead many efforts to deliver meaningful product experiences using evolutionary design while prioritizing the right projects and tasks.
 </p>
 
 **Languages and Frameworks**: Java, Spring boot, Vavr, DDD, Kafka, Kubernetes, Helm, Python, Django, Postgres, GRPC
@@ -41,7 +19,7 @@ _Senior Software Engineer II, Jun 2021 - Present_
 ### Carta, Inc (Palo Alto, CA, USA)
 _Senior Software Engineer, Jan 2019 - May 2021_
 <p align="justify">
-  I was part of the team that created the ASC 718 report at Carta, and helped the company achieve an architecture that enables accurate accounting allowing for historical clerical errors' correction, and that empowers engineers to employ a directed acyclic graph to write code. This solution is currently processing gigabytes of historical, and current, financial data reliably.
+  I was part of the team that created the ASC 718 report at Carta, and helped the company achieve an architecture that enables accurate accounting allowing for historical clerical errors' correction, and that empowers engineers to employ a directed acyclic graph to write code. This solution is currently processing gigabytes of historical, and current, financial data reliably. This helped me have a vast software development and systems architecture experience in high growth systems.
 </p>
 
 **Languages and Frameworks**: Python, Django, Postgres, React, Redis, GRPC
