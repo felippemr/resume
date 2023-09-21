@@ -1,7 +1,8 @@
+
 Felippe Raposo / Cupertino, CA - USA  / [Linkedin](https://www.linkedin.com/in/felippe-da-motta-raposo-88aa0562/) / [Github](https://github.com/felippemr)
 ==========================================================================================================
 <p align="justify">
-  I am a challenge led developer recognized for taking on the most challenging task with a "cool and helpful presence" and for going out of the way to learn new technical areas. 9 years of professional experience in development of software for distributed cloud services using Python/Java on LINUX platforms I'm known for a combination of focused analytical skills and interpersonal strengths including background in design, development and testing of software with expertise in databases and distributed cloud products.
+  I am a challenge led developer recognized for taking on the most challenging task with a "cool and helpful presence" and for going out of the way to learn new technical areas. Over a decade of professional experience in development of software for distributed cloud services using Python/Java on LINUX platforms I'm known for a combination of focused analytical skills and interpersonal strengths including background in design, development and testing of software with expertise in databases and distributed cloud products.
 </p>
 
 Summary of Qualifications
@@ -26,26 +27,24 @@ Summary of Qualifications
   </li>
 </ul>
 
-Languages and Frameworks
------------------
-* Python - Django and Flask
-* Java - Spring boot, vavr, DDD
-* Javascript - React
-* Rust - Open source contributor
 
 Professional Experience
 -----------------------
 ### Carta, Inc (Santa Clara, CA, USA)
 _Senior Software Engineer II, Jun 2021 - Present_
 <p align="justify">
-  Leading projects on Carta's money movement(MM) platform. Scalled the software and operations growing from $5bn to over $15bn in 2021 with several critical projects – including: Revamping Carta's MM internal API, enabling International Money Movement for US based companies to offer in-platform exercising to their non Us employees and most recently a new architecture for MM at Carta composed of several services based on a java monorepo.
+  Leading projects on Carta's money movement(MM) platform. Got the software and operations growing from $5B to over $15B in 2021 with several critical projects – including: Revamping Carta's MM internal API, enabling International Money Movement for US based companies to offer in-platform exercising to their non Us employees and most recently a new architecture for MM at Carta composed of several services based on a java monorepo.
 </p>
 
+**Languages and Frameworks**: Java, Spring boot, Vavr, DDD, Kafka, Kubernetes, Helm, Python, Django, Postgres, GRPC
+
 ### Carta, Inc (Palo Alto, CA, USA)
-_Senior Software Engineer, Jan 2019 - May 2021
+_Senior Software Engineer, Jan 2019 - May 2021_
 <p align="justify">
-  I was part of the team that created the ASC 718 report at Carta, and helped the company achieve an architecture that enables accurate accounting allowing for historical clerical errors' correction, and that empowers engineers to employ a directed acyclic graph to write code. This solution is currently processing gigabytes of historical, and current, financial data reliabily.
+  I was part of the team that created the ASC 718 report at Carta, and helped the company achieve an architecture that enables accurate accounting allowing for historical clerical errors' correction, and that empowers engineers to employ a directed acyclic graph to write code. This solution is currently processing gigabytes of historical, and current, financial data reliably.
 </p>
+
+**Languages and Frameworks**: Python, Django, Postgres, React, Redis, GRPC
 
 ### Carta, Inc (Rio de Janeiro, Brazil)
 _Software Engineer, Sep 2016 - Dez 2018_
@@ -54,12 +53,14 @@ _Software Engineer, Sep 2016 - Dez 2018_
   
   I helped design a tool to draft and send sales contracts and with that a payment tool capable of handling credit cards and ACH(American banks only) with which the company was able to charge more than $1M in in the first month. Led the expense accounting team for 4 four months on recreating a tool to generate expense reports such as the expense audit report and disclosures reports for our customers.
   
-  Currently working on Carta's payments platform where I have been able to drastically improve the service performance, remove bugs that were impacting users by employing a new archtecture for cross-systems integrations and, I am designing a novel solution for money movement that will transact tens of billions of dollars within the next two years. 
+  Currently working on Carta's payments platform where I have been able to drastically improve the service performance, remove bugs that were impacting users by employing a new architecture for cross-systems integrations and, I am designing a novel solution for money movement that will transact tens of billions of dollars within the next two years. 
 </p>
+
+**Languages and Frameworks**:  Python, Django, Postgres, React, Celery, Redis, Thrift
 
 ### Globo.com (Rio de Janeiro, Brazil)
 
-_Middle Software Engineer, Oct 6th 2014 - Sep 7th 2016_
+_Software Engineer, Oct 6th 2014 - Sep 7th 2016_
 <p align="justify">
   Middle member of the team that built DBaaS, an open source
   Web app and API designed to manage databases on the cloud environment, 
@@ -68,6 +69,8 @@ _Middle Software Engineer, Oct 6th 2014 - Sep 7th 2016_
   resources and drastic reduction in the time to create a new database.
 </p>
 
+**Languages and Frameworks**:  Python, Django, MySQL, MongoDB, Redis, CloudStack, Puppet, Tsuru
+
 ### Mob4Biz (Rio de Janeiro, Brazil)
 
 _Black Belt Nov 1st 2012 - Feb 1st 2014_
@@ -75,6 +78,8 @@ _Black Belt Nov 1st 2012 - Feb 1st 2014_
   Helped some friends with a B2B startup focused on out-of-the-box integration with ERP systems. 
   We developed a mobile application to help managers with approval of purchase orders and others boring stuffs.
 </p>
+
+**Languages and Frameworks**:  PHP, SQL Server
 
 ### Sá Cavalcante (Rio de Janeiro, Brazil)
 
@@ -89,7 +94,7 @@ _IT Assistant Mar 19th 2012 - Mar 21st 2013_
 
 _IT Assistant Jun 1st 2010 - Jun 10th 2011_
 <p align="justify">
-  Linux admistration routines involving preparation of new servers before sending them to customers, development of $BASH scripts to perform remote actions on servers, and calibration of the image recognition software used to count people moving in/out of a building.
+  Linux administration routines involving preparation of new servers before sending them to customers, development of $BASH scripts to perform remote actions on servers, and calibration of the image recognition software used to count people moving in/out of a building.
 </p>
 
 
