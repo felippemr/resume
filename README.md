@@ -78,7 +78,6 @@ _IT Assistant Jun 1st 2010 - Jun 10th 2011_
 
 Courses
 ----------------------------
-* B.S in Business at Penn State (started on fall 2020)
 * Financial Markets by Yale University on Coursera. [Syllabus](https://www.coursera.org/learn/financial-markets-global/)
 * Cloud Computing Concepts: Part 2 by University of Illinois at Urbana-Champaign on Coursera. [Syllabus](https://www.coursera.org/learn/cloud-computing)
 * Machine Learning Foundations: A Case Study Approach by University of Washington on Coursera. [Syllabus](https://www.coursera.org/learn/ml-foundations)
