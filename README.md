@@ -1,6 +1,6 @@
 **Felippe Raposo**  
-Foster City, CA - USA  
-[Linkedin](https://www.linkedin.com/in/felippe-da-motta-raposo-88aa0562/) | [Github](https://github.com/felippemr)  
+Sandy, UT - USA  
+[Linkedin](https://www.linkedin.com/in/felippe-da-motta-raposo-88aa0562/) | [Github](https://github.com/felippemr) | [Personal blog](https://www.reanard.com/)
 
 ---
 
